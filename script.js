@@ -44,7 +44,7 @@ window.onclick = function(event) {
   }
 }
 
-/*function shcount(){
+function shcount(){
   document.getElementById("carrier").innerHTML = count();
 }
 var count = (
@@ -190,4 +190,4 @@ function updateCartTotal() {
     document.getElementsByClassName('cart-total-price')[0].innerText = '$' + total
 }
 
-*/
+
